@@ -1,4 +1,3 @@
-
 .sidebarChat{
     display: flex;
     padding: 20px;
@@ -11,8 +10,8 @@
 }
 
 .sidebarChat_info > h2{
-    font-size: 16px;
-    margin: 0px;
+    font-size: 16px; 
+    margin: 8px;
 }
 
 .sidebarChat_info > p{
